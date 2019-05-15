@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "isaac-playground-football",
-"dataUrl": "_web-football.data.unityweb",
-"wasmCodeUrl": "_web-football.wasm.code.unityweb",
-"wasmFrameworkUrl": "_web-football.wasm.framework.unityweb",
+"dataUrl": "a81698da803d8e18d2c2c921a47fe876.unityweb",
+"wasmCodeUrl": "b648e3230151c1e0a56a6a09f2539d94.unityweb",
+"wasmFrameworkUrl": "02d9e22f72c5d77cfdfbd2833f0c34b6.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
